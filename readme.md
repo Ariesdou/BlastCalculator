@@ -11,11 +11,11 @@ And two outputs are impulse and pressure within a confined space.
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. 
 
-# Prerequisites
+## Prerequisites
 Anaconda
 npm
 
-# Installing
+## Installing
 installing anaconda https://docs.anaconda.com/anaconda/install/
 Some basis command to getting started with conda
 ```
